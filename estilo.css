@@ -1,0 +1,107 @@
+body{
+	background: #10A3A2 url('imagens/fundo.jpg');
+	font: 16px Arial, Helvetica, sans-serif;
+	background-attachment: fixed;
+}
+
+#principal{
+	
+	width: 900px;
+	height: auto;
+	background: #e8e8d9 ;
+	padding: 10px;
+	margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+#menu{
+	background: #c5c5b2;
+	padding: 18px;
+}
+
+#conteudo{
+	background: #e8e8d9 ;
+	padding: 10px;
+
+}
+
+a{
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+.linha{
+	display: flex;
+	flex-flow: row wrap;
+	
+	padding: 10px;
+
+}
+
+.coluna-1{
+	width: 48.5%;
+	height: auto;
+	float: left;
+	padding: 5px;
+	margin: 10;
+	
+}
+.coluna-2{
+	width: 48.5%;
+	height: auto;
+	float: right;
+	padding: 5px;
+	margin: 10;
+	
+}
+
+.centralizar{
+	text-align: center;
+	}
+
+.banner{
+
+	width: 900px;
+}
+
+.tumb{
+	width: 250px;
+
+
+}
+
+.texto{
+
+	text-align: justify;
+
+
+}
+
+
+h1{
+
+	font-family: monospace;
+	color: blue;
+}
+
+h2{
+	font-family: verdana;
+
+	color: purple;
+
+}
+.seta{
+
+	width: 20px;
+}
+
+p{
+font-family: verdana;
+
+}
+
+
+
